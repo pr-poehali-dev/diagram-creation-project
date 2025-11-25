@@ -8,18 +8,18 @@ const Index = () => {
   const diagrams = {
     usecase: {
       title: 'Диаграмма прецедентов',
-      description: 'Use Case Diagram - отображает взаимодействие пользователей с системой регистрации',
-      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/db4d4f31-5c4d-415f-b816-f8fee9bca887.jpg',
+      description: 'Отображает взаимодействие актёров (Гость, Пользователь, Администратор) с функциями системы регистрации',
+      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/0ff8e90f-c884-4bf4-b331-eed52c670439.jpg',
     },
     sequence: {
       title: 'Диаграмма последовательностей',
-      description: 'Sequence Diagram - показывает последовательность взаимодействий при регистрации пользователя',
-      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/0c258619-f21e-415b-a275-83357901e06c.jpg',
+      description: 'Показывает последовательность сообщений между компонентами при регистрации нового пользователя',
+      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/43722c7c-ec27-4c5f-8b61-c339c9c21be6.jpg',
     },
     activity: {
       title: 'Диаграмма деятельности',
-      description: 'Activity Diagram - демонстрирует поток действий в процессе регистрации',
-      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/d1212dc4-01cd-4866-bfb4-34f1c28d6ca7.jpg',
+      description: 'Демонстрирует последовательность действий и решений в процессе регистрации с разделением на зоны ответственности',
+      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/ed61f90e-d581-4121-a1ac-5e526e16df36.jpg',
     },
   };
 
