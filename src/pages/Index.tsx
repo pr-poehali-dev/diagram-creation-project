@@ -9,17 +9,17 @@ const Index = () => {
     usecase: {
       title: 'Диаграмма прецедентов',
       description: 'Отображает взаимодействие актёров с функциями системы регистрации нового пользователя',
-      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/9a43f8bb-c1c4-4ae0-a5b7-2f8fd4bd27d0.jpg',
+      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/f8f5531b-e8a8-41db-9860-7aa7ca945d0a.jpg',
     },
     sequence: {
       title: 'Диаграмма последовательностей',
       description: 'Показывает последовательность взаимодействий компонентов системы при регистрации',
-      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/ab5e26e1-9f2c-4a22-8aa1-f0139d75bedc.jpg',
+      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/79ed8177-7577-45bf-890f-bae04ef86ae3.jpg',
     },
     activity: {
       title: 'Диаграмма деятельности',
       description: 'Демонстрирует пошаговый процесс регистрации с точками принятия решений',
-      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/f800f77b-35e7-4b69-a44f-a23473524bc9.jpg',
+      image: 'https://cdn.poehali.dev/projects/25e5c9e2-7b07-4059-bfd8-c88483954470/files/0cac4611-a44c-4f33-bc06-bfb31637a33b.jpg',
     },
   };
 
